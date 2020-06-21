@@ -7,6 +7,21 @@ h4 {
   font-family: 'Crimson Text', serif;
 }
 
+h3 {
+  color: #e4eddb;
+  font-family: 'Crimson Text', serif;
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  color: #e4eddb;
+  font-family: 'Crimson Text', serif;
+  font-size: 20px;
+}
+a:hover{
+  color: white;
+}
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
